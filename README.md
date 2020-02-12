@@ -60,3 +60,10 @@ npm run start # start the server
 ```
 
 Server will be listening on http://localhost:5000
+
+Developed by
+Kishore kumar P B 
+
+Under the Guidence of Mr.Naveen Vignesh from Imstrong 
+https://github.com/naveenvignesh5/
+queries:crazykishore2015@gmail.com
